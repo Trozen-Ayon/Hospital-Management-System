@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://E:/JavaFX__IntelliJ/javafx-sdk-27/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/JavaFX__IntelliJ/javafx-sdk-27/lib" recursive="false" />
+  </library>
+</component>
