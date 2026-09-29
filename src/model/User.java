@@ -9,4 +9,8 @@ public class User {
     private String role;
     private boolean status;
 
+    public void getId(){
+        System.out.println("Enter your ");
+    }
+
 }
