@@ -1,13 +1,13 @@
 package model;
 
 public class User {
-    private int id;
-    private String name;
-    private String email;
-    private String password;
-    private int phone;
-    private String role;
-    private boolean status;
+    protected int id;
+    protected String name;
+    protected String email;
+    protected String password;
+    protected int phone;
+    protected String role;
+    protected boolean status;
 
     public void getId(){
         System.out.println("Enter your ");
